@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "311012486598",
+    "project_id": "android3-f0934",
+    "storage_bucket": "android3-f0934.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311012486598:android:61489ebc713c535eb396c7",
+        "android_client_info": {
+          "package_name": "hr.tvz.android.listapetermanec"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "311012486598-7kr9vutj9c1m5e9qtn6von26kgas3edf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCroUTb0_CWk5b9VWRY8PtkKfqU_crXSk0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "311012486598-7kr9vutj9c1m5e9qtn6von26kgas3edf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

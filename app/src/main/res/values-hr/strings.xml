@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">listaPetermanec</string>
+    <string name="share">DIJELI</string>
+    <string name="yes">Da</string>
+    <string name="no">Ne</string>
+    <string name="share_message">Želite li dijeliti sadržaj?</string>
+    <string name="web">WEB</string>
+</resources>

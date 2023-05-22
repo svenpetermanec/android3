@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name" translatable="false">fragmentiPetermanec</string>
+    <string name="share">SHARE</string>
+    <string name="web">WEB</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="share_message">Do you want to share this?</string>
+    <string-array name="exercises">
+        <item>Bench press (barbell)</item>
+        <item>Incline bench press (dumbbell)</item>
+        <item>Squat (barbell)</item>
+        <item>Seated row (cable)</item>
+        <item>Bent over row (barbell)</item>
+        <item>Leg extension (machine)</item>
+        <item>Pull up</item>
+        <item>Triceps extension (cable)</item>
+        <item>Preacher curl (barbell)</item>
+        <item>Standing calf raise (machine)</item>
+        <item>Overhead press (barbell)</item>
+        <item>Lat pulldown (cable)</item>
+        <item>Skullcrusher (barbell)</item>
+    </string-array>
+    <string-array name="descriptions">
+        <item>Lie supine on bench. Dismount barbell from rack over upper chest using wide oblique overhand grip. Lower weight to chest. Press bar upward until arms are extended. Repeat.</item>
+        <item>Press dumbbells up with elbows to sides until arms are extended. Lower weight to sides of upper chest until slight stretch is felt in chest or shoulder. Repeat.</item>
+        <item>Squat down by bending hips back while allowing knees to bend forward, keeping back straight and knees pointed same direction as feet. Descend until thighs are just past parallel to floor. Extend knees and hips until legs are straight. Return and repeat.</item>
+        <item>Pull cable attachment to waist while straightening lower back. Pull shoulders back and push chest forward while arching back. Return until arms are extended, shoulders are stretched forward, and lower back is flexed forward. Repeat.</item>
+        <item>Bend knees slightly and bend over bar with back straight. Grasp bar with wide overhand grip. Pull bar to upper waist. Return until arms are extended and shoulders are stretched downward. Repeat.</item>
+        <item>Move lever forward and upward by extending knees until legs are straight. Return lever to original position by bending knees. Repeat.</item>
+        <item>Place dip belt around waist. Kneel close to low pulley or lever and attach hook to dip belt. Step up and grasp bars with overhand wide grip. Lift legs off of steps or floor. Pull body up until chin is above bar. Lower body until arms and shoulders are fully extended. Repeat.</item>
+        <item>Push stirrup forward by extending forearm until elbow is straight. Allow stirrup to return back over shoulder. Repeat and repeat. Continue with opposite arm.</item>
+        <item>Sit on preacher bench placing back of arms on pad. Grasp curl bar with shoulder width underhand grip. Raise bar until forearms are vertical. Lower barbell until arms are fully extended. Repeat.</item>
+        <item>Raise heels by extending ankles as high as possible. Lower heels by bending ankles until calves are stretched. Repeat.</item>
+        <item>Grasp barbell from rack or clean barbell from floor with overhand grip, slightly wider than shoulder width. Position bar in front of neck. Press bar upward until arms are extended overhead. Lower to front of neck and repeat.</item>
+        <item>Grasp cable bar with wide grip. Sit with thighs under supports. Pull down cable bar to upper chest. Return until arms and shoulders are fully extended. Repeat.</item>
+        <item>Lie on bench with narrow overhand grip on barbell. Position barbell over shoulders with arms extended. Lower bar to forehead by bending elbows. Extend arms and repeat.</item>
+    </string-array>
+</resources>
